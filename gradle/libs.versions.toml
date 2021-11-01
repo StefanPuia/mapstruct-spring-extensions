@@ -8,7 +8,7 @@ jsr250 = "1.0"
 jupiter = "5.7.2"
 mapstruct = "1.4.0.Final"
 mockito = "3.11.2"
-spring = "5.0.0.RELEASE"
+spring = "5.2.18.RELEASE"
 
 [libraries]
 assertj = { group = "org.assertj", name = "assertj-core", version.ref = "assertj"}
